@@ -19,7 +19,7 @@
     </ol>
   </li>
   <li>You will be shown a window like this:<br>
-    <img src="Face_Recogniser 13-06-2020 9.14.42 PM.png" width=75%>
+<!--     <img src="Face_Recogniser 13-06-2020 9.14.42 PM.png" width=75%> -->
   </li>
   <li> Enter Numeric value for Id. </li>
   <li> Enter your Name in the field provided.</li>
